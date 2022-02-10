@@ -1,5 +1,5 @@
 cd "Github repo"
-cd "All css&js"
+cd "All-css-js"
 now=$(date "+%Y-%m-%d")
 git add .
 git commit -m "$now"
